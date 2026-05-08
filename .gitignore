@@ -97,7 +97,7 @@ next-env.d.ts
 
 # IGNORED DOCUMENTATION (MD FILES)
 *.md
-!README.md
+!profile/README.md
 !CODE_OF_CONDUCT.md
 !CONTRIBUTING.md
 !LICENSE.md
