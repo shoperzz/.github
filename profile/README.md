@@ -1,4 +1,4 @@
-<img src="../assets/shoperzz-dark.png" alt="Shoperzz Banner" width="1200" height="420">
+<img src="../assets/shoperzz-dark.png" alt="Shoperzz Banner" width="1200" height="750">
 
 The modern, headless, self-hosted, open-source commerce engine for serious builders. Powered by NestJS & Vendure.
 
